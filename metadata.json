@@ -1,0 +1,5 @@
+{
+  "name": "SCTS - Smart Classroom & Timetable Scheduler",
+  "description": "An intelligent, web-based system for HEIs to automate and optimize academic timetabling using constraint-satisfaction logic and AI-driven insights.",
+  "requestFramePermissions": []
+}
